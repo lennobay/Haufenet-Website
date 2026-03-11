@@ -69,6 +69,11 @@ header {
 .project-sub:hover {
   scale: 101%;
 }
+.article-format{
+  display: grid;
+  margin-left: 20rem;
+  margin-right: 20rem;
+}
 .article-format-top-info{
   display: flex;
   align-items: center;
@@ -84,6 +89,10 @@ header {
     }
     .hero-right img{
         display: none;
+    }
+    .article-format{
+      margin-left: 1rem;
+      margin-right: 1rem;
     }
   .projects-sub-up {
     grid-template-columns: 1fr;
