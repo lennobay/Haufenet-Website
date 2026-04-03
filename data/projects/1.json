@@ -1,0 +1,20 @@
+[
+     {
+        "title" : "This Website",
+        "github" : "https://github.com",
+        "text" : "This Website wasa created with plain vanilla JS no bakend and just JSON files. It did it in search for an easy way to publish my documents but not using an overpowered Framework as I would for an larger project with an backend nedded and maybe users that do not have so much experience with technology. As such my main way was to utilise just an DOM manipulation an beautiful css to achieve what I want. And i also created a way to make a Markdown copy with single symbols in my texts. Such as  !!! for an break or  !!!img plus link to image  !!! for easy image formatatiion.    Which in turn creates an easy and fast system."
+         ,"description" : "mh"
+        },{
+
+        "title" : "sie saite",
+        "github" : "https://github.com",
+        "text" : "Ja sita saite ira loti smuka"
+        ,"description" : "mh"
+
+     },{
+        "title" : "Diese Website",
+             "github" : "https://github.com",
+        "text" : "Ist nicht so schön"
+        ,"description" : "mh"
+     }
+]
