@@ -2,7 +2,7 @@
      {
         "title" : "This Website",
         "github" : "https://github.com/lennobay/Haufenet-Website",
-        "text" : "This Website wasa created with plain vanilla JS no bakend and just JSON files. It did it in search for an easy way to publish my documents but not using an overpowered Framework as I would for an larger project with an backend nedded and maybe users that do not have so much experience with technology. As such my main way was to utilise just an DOM manipulation an beautiful css to achieve what I want. And i also created a way to make a Markdown copy with single symbols in my texts. Such as  !!! for an break or  !!!img plus link to image  !!! for easy image formatatiion.    Which in turn creates an easy and fast system."
+        "text" : "Hi! This Website was created without any backend and just relies on JSON files. In order to bring the data in to the document I utilise DOM Manipulation. Furthermore I also will utilise a language change option dependend on a query option in the URL. But for now it is only in English. Now to the matters that will be hosted on this Page or why it exists. It is hihgly likely that I will post of course some projects of mine or give acces to a project via  a PORTAL. Of course this Page also needs some change in the way it is designed. I will take care of that a later time. "
          ,"description" : "mh"
         },{
 
