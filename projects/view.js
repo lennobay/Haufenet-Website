@@ -15,7 +15,7 @@ const fetch_data_parsed = await fetch_data.json();
 if (searchParams.get("lg") == "lv") {
     title.innerHTML = `<h1>${fetch_data_parsed[1].title} </h1>`
     text.innerHTML = `<p>${fetch_data_parsed[1].text}</p>`
-    top.innerHTML = `<p>${fetch_data_parsed[1].github}</p>`
+    top.innerHTML = `<p onclick="window.location.href = '${fetch_data_parsed[1].github}'">${fetch_data_parsed[1].github}</p>`
 }
 
 
